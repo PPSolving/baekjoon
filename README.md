@@ -1,7 +1,7 @@
 # baekjoon 
 | 구분 | 문제이름 | 주제 | HYJ | KBM
 |---|:---:|:---:|:---:|:---:|
-| 그래프 | [집합의표현](https://www.acmicpc.net/problem/1717) | Union-Find | X | X |
+| 그래프 | [집합의표현](https://www.acmicpc.net/problem/1717) | Union-Find | O | X |
 | 그래프 | [줄 세우기](https://www.acmicpc.net/problem/2252) | 위상정렬 | X | X |
 | 그래프 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | 최소신장트리 | X | X |
 | 그래프 | [lca 2](https://www.acmicpc.net/problem/11438) | 최저 공통 조상 | X | X |
