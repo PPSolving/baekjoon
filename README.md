@@ -6,7 +6,7 @@
 | 그래프 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | 최소신장트리 | O | O |
 | 그래프 | [lca 2](https://www.acmicpc.net/problem/11438) | 최저 공통 조상 | △ | △ |
 | 그래프 | [키 순서](https://www.acmicpc.net/problem/2458) | 플로이드 | △ | O |
-| 그래프 | [게임 개발](https://www.acmicpc.net/problem/1516) | 위상정렬, DP | X | X |
+| 그래프 | [게임 개발](https://www.acmicpc.net/problem/1516) | 위상정렬, DP | O | X |
 | 그래프 | [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830) | Union-Find | X | X |
 | 그래프 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | 최저공통조상 | X | X |
 | 그래프 | [두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626) | 최소신장트리 | X | X |
