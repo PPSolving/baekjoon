@@ -8,7 +8,7 @@
 | 그래프 | [키 순서](https://www.acmicpc.net/problem/2458) | 플로이드 | △ | O |
 | 그래프 | [게임 개발](https://www.acmicpc.net/problem/1516) | 위상정렬, DP | O | O |
 | 그래프 | [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830) | Union-Find | △ | O |
-| 그래프 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | 최저공통조상 | X | X |
+| 그래프 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | 최저공통조상 | △ | X |
 | 그래프 | [두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626) | 최소신장트리 | X | X |
 | 그래프 | [단절점](https://www.acmicpc.net/problem/11266) | 단절점 | X | X |
 | 그래프 | [최단경로](https://www.acmicpc.net/problem/1753) | 다익스트라 | X | X |
