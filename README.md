@@ -11,7 +11,7 @@
 | 그래프 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | 최저공통조상 | △ | O |
 | 그래프 | [두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626) | 최소신장트리 | X | X |
 | 그래프 | [단절점](https://www.acmicpc.net/problem/11266) | 단절점 | △ | X |
-| 그래프 | [최단경로](https://www.acmicpc.net/problem/1753) | 다익스트라 | X | X |
+| 그래프 | [최단경로](https://www.acmicpc.net/problem/1753) | 다익스트라 | O | X |
 | 그래프 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만포드 | X | X |
 | 그래프 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드워셜 | X | X |
 | 그래프 | [단절선](https://www.acmicpc.net/problem/11400) | 단절선 | X | X |
