@@ -17,7 +17,7 @@
 | 그래프 | [단절선](https://www.acmicpc.net/problem/11400) | 단절선 | O | X |
 | 그래프 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | 벨만포드 | △ | X |
 | 그래프 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | 다익스트라 | △ | X |
-| 그래프 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | 다익스트라 | X | X |
+| 그래프 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | 다익스트라 | △ | X |
 | DP | [정수 삼각형](https://www.acmicpc.net/problem/1932) | DP | X | X |
 | DP | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | DP | X | X |
 | DP | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP | X | X |
