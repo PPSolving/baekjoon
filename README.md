@@ -18,7 +18,7 @@
 | 그래프 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | 벨만포드 | △ | X |
 | 그래프 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | 다익스트라 | △ | X |
 | 그래프 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | 다익스트라 | △ | X |
-| DP | [정수 삼각형](https://www.acmicpc.net/problem/1932) | DP | X | X |
+| DP | [정수 삼각형](https://www.acmicpc.net/problem/1932) | DP | O | X |
 | DP | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | DP | X | X |
 | DP | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP | X | X |
 | DP | [계단 오르기](https://www.acmicpc.net/problem/2579) | DP | X | X |
