@@ -20,7 +20,7 @@
 | 그래프 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | 다익스트라 | △ | X |
 | DP | [정수 삼각형](https://www.acmicpc.net/problem/1932) | DP | O | X |
 | DP | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | DP | △ | X |
-| DP | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP | X | X |
+| DP | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP | O | X |
 | DP | [계단 오르기](https://www.acmicpc.net/problem/2579) | DP | X | X |
 | DP | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | DP| X | X |
 | DP | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 사선 DP | X | X |
