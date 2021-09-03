@@ -23,7 +23,7 @@
 | DP | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP | O | X |
 | DP | [계단 오르기](https://www.acmicpc.net/problem/2579) | DP | △ | X |
 | DP | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | DP| O | X |
-| DP | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 사선 DP | X | X |
+| DP | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 사선 DP | △ | X |
 | DP | [가장 큰 증가하는 부분 순열 5](https://www.acmicpc.net/problem/14003) | LIS | X | X |
 | DP | [앱](https://www.acmicpc.net/problem/7579) | DP | X | X |
 | DP | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) | LCS | X | X |
