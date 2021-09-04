@@ -13,7 +13,7 @@
 | 그래프 | [단절점](https://www.acmicpc.net/problem/11266) | 단절점 | △ | △ |
 | 그래프 | [최단경로](https://www.acmicpc.net/problem/1753) | 다익스트라 | O | O |
 | 그래프 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만포드 | △ | △ |
-| 그래프 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드워셜 | O | X |
+| 그래프 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드워셜 | O | △ |
 | 그래프 | [단절선](https://www.acmicpc.net/problem/11400) | 단절선 | O | X |
 | 그래프 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | 벨만포드 | △ | X |
 | 그래프 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | 다익스트라 | △ | X |
