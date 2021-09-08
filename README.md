@@ -15,7 +15,7 @@
 | 그래프 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만포드 | △ | △ |
 | 그래프 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드워셜 | O | △ |
 | 그래프 | [단절선](https://www.acmicpc.net/problem/11400) | 단절선 | O | O |
-| 그래프 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | 벨만포드 | △ | X |
+| 그래프 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | 벨만포드 | △ | △ |
 | 그래프 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | 다익스트라 | △ | X |
 | 그래프 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | 다익스트라 | △ | X |
 | DP | [정수 삼각형](https://www.acmicpc.net/problem/1932) | DP | O | X |
